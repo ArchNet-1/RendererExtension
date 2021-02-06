@@ -1,0 +1,19 @@
+{
+  "name": "com.archnet.extension.renderer",
+  "version": "1.0.0",
+  "displayName": "Arch Net Extension Renderer",
+  "description": "Manage tranform and rect transform",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Extension",
+    "Renderer",
+    "Custom"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  }
+}
