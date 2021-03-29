@@ -33,5 +33,25 @@ namespace ArchNet.Extension.Renderer
 
             return lResult;
         }
+
+        /// <summary>
+        /// Description : Check if a transform is in a rect tranform
+        /// </summary>
+        /// <param name="pRect"></param>
+        /// <param name="pTarget"></param>
+        /// <returns></returns>
+        public static bool IsInRectTransform(RectTransform pRect, Vector3 pTarget)
+        {
+            bool lResult = false;
+
+            lResult = RectTransformUtility.RectangleContainsScreenPoint(pRect, pTarget, null);
+
+            if (lResult == true)
+            {
+                return lResult;
+            }
+
+            return lResult;
+        }
     }
 }
