@@ -28,4 +28,4 @@ bool seen = frame.ContainsAny(targets, Camera.main);
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

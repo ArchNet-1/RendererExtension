@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Renderer Extension",
   "description": "Tells whether a screen point, or objects of the scene, are inside a UI rectangle, for every canvas mode.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#RendererExtension",
   "changelogUrl": "https://github.com/ArchNet-1/RendererExtension/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/RendererExtension/blob/master/LICENSE.md",
